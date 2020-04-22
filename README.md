@@ -5,7 +5,7 @@ Bulma's extension to create grouped cards and boxes
 
 ## Quick install
 ### NPM
-
+[NPM package](https://www.npmjs.com/package/bulma-grouped)
 ```sh
 npm install bulma-grouped
 ```
