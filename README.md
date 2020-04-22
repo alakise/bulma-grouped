@@ -67,7 +67,7 @@ Usage
 
 Example
 ---
-
+![Example usage](https://alakise.com/github/bulma-grouped.png)
 
 Integration
 ---
