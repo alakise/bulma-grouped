@@ -1,5 +1,25 @@
 # bulma-grouped
 Bulma's extension to create grouped card and boxes
+![npm](https://img.shields.io/npm/v/bulma-grouped)
+
+## Quick install
+
+Bulma is constantly in development! Try it out now:
+
+### NPM
+
+```sh
+npm install bulma-grouped
+```
+### Import
+After installation, you can import the CSS or SASS file into your project using this snippet after importing 'bulma':
+```sh
+import 'bulma-grouped/dist/css/bulma-grouped.min.css'
+```
+or
+```sh
+import 'bulma-grouped/dist/css/bulma-grouped.sass'
+```
 
 Usage
 ---
@@ -69,7 +89,7 @@ Example
 ---
 ![Example usage](https://alakise.com/github/bulma-grouped.png)
 
-Integration
+Integration to Bulma
 ---
 - Clone the [bulma repo](https://github.com/jgthms/bulma)
 - Under the `sass` folder, create a new folder called `extensions`
