@@ -10,7 +10,7 @@ Bulma's extension to create grouped card and boxes
 npm install bulma-grouped
 ```
 ### Import
-After installation, you can import the CSS or SASS file into your project using this snippet after importing 'bulma':
+You can import the CSS or SASS file into your project using this snippet after importing 'bulma':
 ```sh
 import 'bulma-grouped/dist/css/bulma-grouped.min.css'
 ```
