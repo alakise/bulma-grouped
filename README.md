@@ -73,7 +73,7 @@ Integration
 ---
 - Clone the [bulma repo](https://github.com/jgthms/bulma)
 - Under the `sass` folder, create a new folder called `extensions`
-- In this new folder, create a new file `ribbon.sass`
+- In this new folder, create a new file `bulma-grouped.sass`
 - Copy the code form the `bulma-grouped repo`'s [dist/css/bulma-grouped.sas](https://github.com/alakise/bulma-grouped/blob/master/dist/css/bulma-grouped.sass) file into your new file
 - In the same folder create a new file `_all.sass` (this is not required, but will help when you add more extensions)
 - In this file add this code:
