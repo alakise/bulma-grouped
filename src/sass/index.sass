@@ -1,0 +1,15 @@
+.box.is-grouped
+  &:not(:last-child)
+    border-radius: 5px 5px 0 0
+    margin-bottom: 0
+  &:not(:first-child)
+    border-radius: 0 0 5px 5px
+  &:not(:last-child):not(:first-child)
+    border-radius: 0
+    margin-bottom: 0
+.card.is-grouped
+  &:not(:last-child)
+    margin-bottom: 0
+  &:not(:last-child):not(:first-child)
+    border-radius: 0
+    margin-bottom: 0
