@@ -1,6 +1,6 @@
 {
   "name": "bulma-grouped",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Group card and box elements",
   "main": "dist/css/bulma-grouped.sass",
   "repository": {
