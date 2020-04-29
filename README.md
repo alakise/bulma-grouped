@@ -1,7 +1,7 @@
 # bulma-grouped
 Bulma's extension to create grouped cards and boxes
 
-![npm](https://img.shields.io/npm/v/bulma-grouped)[https://www.npmjs.com/package/bulma-grouped]
+[![npm](https://img.shields.io/npm/v/bulma-grouped)[npm-link]
 
 ## Quick install
 ### NPM
@@ -106,3 +106,4 @@ Now, you can just build the bulma project with `npm run build`, and the output w
 OR
 
 - Just add the 'bulma-grouped.sass' or 'bulma-grouped.min.css' in any way you want it.
+[npm-link]:https://www.npmjs.com/package/bulma-grouped
