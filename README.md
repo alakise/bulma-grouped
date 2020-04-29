@@ -1,7 +1,7 @@
 # bulma-grouped
 Bulma's extension to create grouped cards and boxes
 
-![npm](https://img.shields.io/npm/v/bulma-grouped)
+![npm](https://img.shields.io/npm/v/bulma-grouped)[https://www.npmjs.com/package/bulma-grouped]
 
 ## Quick install
 ### NPM
